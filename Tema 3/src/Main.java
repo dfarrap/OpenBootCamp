@@ -28,6 +28,7 @@ public class Main {
         public void AgregarPuerta() {
             puertas++;
         }
+        Run 'Main ': Launching main class...
     }
 
 }
